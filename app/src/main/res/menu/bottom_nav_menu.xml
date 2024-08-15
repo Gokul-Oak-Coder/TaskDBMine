@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/development"
+        android:title="Development"
+        android:icon="@drawable/reme"/>
+
+    <item android:id="@+id/incidents"
+        android:title="Incidents"
+        android:icon="@drawable/reme"/>
+
+
+    <item android:id="@+id/placeHolder"
+        android:title=""/>
+
+    <item android:id="@+id/huats"
+        android:title="HUATs"
+        android:icon="@drawable/reme"/>
+
+    <item android:id="@+id/mcissues"
+        android:title="MC issues"
+        android:icon="@drawable/reme"/>
+
+</menu>

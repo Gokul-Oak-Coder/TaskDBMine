@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/id_android_fragment"
+        android:icon="@drawable/android"
+        android:checked="true"
+        android:checkable="true"
+        android:title="Android"/>
+
+    <item android:id="@+id/id_ios_fragment"
+        android:icon="@drawable/ios"
+        android:checkable="true"
+        android:title="Ios"/>
+</menu>
